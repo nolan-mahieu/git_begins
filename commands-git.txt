@@ -1,0 +1,5 @@
+git clone https://github.com/nolan-mahieu/git_begins.git
+git add
+[A[C[C[C[C[C[C[C .
+[A[C[C[C[C[B[D[D[D[Dgit commit -m "first"
+git push 
